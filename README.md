@@ -66,31 +66,31 @@ I created the following charts to make the patterns easier to understand.
 
 ### 1. Average rental demand by hour
 
-![Hourly Demand](outputs/charts/hourly_demand.png)
+![Hourly Demand](outputs/hourly_demand.png)
 
 This chart shows how rental activity changes throughout the day. The evening has the strongest average demand, while activity is lowest during the early morning hours.
 
 ### 2. Casual vs registered users
 
-![User Distribution](outputs/charts/user_distribution.png)
+![User Distribution](outputs/user_distribution.png)
 
 Registered users account for the majority of rentals, while casual users make up a smaller share.
 
 ### 3. Weekday vs weekend demand
 
-![Weekday vs Weekend](outputs/charts/weekday_vs_weekend.png)
+![Weekday vs Weekend](outputs/weekday_vs_weekend.png)
 
 A comparison of average hourly rental demand between weekdays and weekends. The weekday average is slightly higher in this dataset.
 
 ### 4. Weather and rental correlation
 
-![Correlation Heatmap](outputs/charts/correlation_heatmap.png)
+![Correlation Heatmap](outputs/correlation_heatmap.png)
 
 This heatmap helped me explore how weather variables relate to total bike rentals. Temperature has a positive correlation with rental demand, while humidity has a negative correlation.
 
 ### 5. Hourly demand across days of the week
 
-![Weekday Hour Heatmap](outputs/charts/weekday_hour_heatmap.png)
+![Weekday Hour Heatmap](outputs/weekday_hour_heatmap.png)
 
 This was one of the more interesting visualisations to explore. It makes it easier to compare hourly rental patterns across all seven days of the week.
 
@@ -146,7 +146,7 @@ The notebook expects `hour.csv` to be available inside the `data/` directory. Th
 
 ## Use of AI
 
-I used AI as a learning assistant for understanding concepts, troubleshooting code, planning analysis, and preparing project documentation. I reviewed the suggestions, ran the code, and examined the results while building the notebook.
+I used AI as a learning assistant for understan ding concepts, troubleshooting code, planning analysis, and preparing project documentation. I reviewed the suggestions, ran the code, and examined the results while building the notebook.
 
 ## Acknowledgements
 
